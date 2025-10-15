@@ -1,1 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+    margin: 0;
+  padding: 0;
+  background-color: #d4bdbd
+  color: #100505;
+}
+header  {
+  background-color: #d4a574; /* A warm earthy color */
+  color: rgb 9101, 78, 78) ;
+  text-align: center;
+  padding: 2rem  0;
+}
+.search-section {
+  text-align:  center;
+  padding: 2rem;
+}
+#searchInput {
+  padding: 0.7rem
+  width: 300px
+  border: lpx solid  #ccc;
+border-radius: 4px
 
