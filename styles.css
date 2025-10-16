@@ -19,5 +19,22 @@ header  {
   padding: 0.7rem
   width: 300px
   border: lpx solid  #ccc;
-border-radius: 4px
+border-radius: 4px;
+}
+button {
+  padding; 0.7rem  1.5rem;
+  background-color: #8b4512; /* A brown 
+  color */
+  color: rgb (235, 222, 222) ;
+  border-radius:4px;
+  cursoe: pointer;
+}
+.recipes-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding:20px:
+}
+
 
