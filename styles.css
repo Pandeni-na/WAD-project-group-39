@@ -36,5 +36,19 @@ button {
   gap: 20px;
   padding:20px:
 }
+.recipe-card {
+    background: rgb(235, 232, 232);
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    width: 300px;
+    padding: 15px;
+    text-align: center;
+}
 
+.recipe-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+}
 
